@@ -8,12 +8,12 @@
     :notebook: I’m currently learning Rust <br>
     :email:	eoin.mcmahon.dev@@gmail.com <br>
     :pencil: Resume: https://cv.jojonicho.wtf <br>
-    :briefcase: LinkedIn: https://www.linkedin.com/in/eoin-mcmahon478/ <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/eoin-mcmahon478/ <br><br><br>
 </samp>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=Eoin-McMahon">
+
 </p>
 
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=Eoin-McMahon" width="230">
 
-![](https://github-readme-stats.vercel.app/api?username=Eoin-McMahon)
 
 
