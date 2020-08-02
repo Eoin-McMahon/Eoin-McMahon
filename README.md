@@ -1,12 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <br>
+  <samp>
+    Hello, I'm Eóin! 👋
+    R&D Engineer at Nordic Semiconductor<br>
+    :school: Recent CS Graduate from the University of Glasgow<br>
+    :notebook: I’m currently learning Rust <br>
+    :email:	eoin.mcmahon.dev@@gmail.com <br>
+    :pencil: Resume: https://cv.jojonicho.wtf <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/eoin-mcmahon478/ <br>
+</samp>
+</p>
 
-🔭 I am a recent CS graduate from the University of Glasgow and I am currently working as an R&D Engineer @ Nordic Semiconductor
-
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=Eoin-McMahon" width="230">
 
 ![](https://github-readme-stats.vercel.app/api?username=Eoin-McMahon)
 
 
-### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *+44 7480475127*|
