@@ -5,8 +5,9 @@
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
   <samp>
-    Hello, I'm Eóin! 👋
+    Hello, I'm Eóin! 👋<br>
     R&D Engineer at Nordic Semiconductor<br>
+    :house_with_garden: Currently based in Trondheim, Norway 🇳🇴<br>
     :school: Recent CS Graduate from the University of Glasgow<br>
     :notebook: I’m currently learning Rust <br>
     :email:	eoin.mcmahon.dev@gmail.com <br>
