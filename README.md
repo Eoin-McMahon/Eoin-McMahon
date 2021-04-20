@@ -3,7 +3,6 @@
   <br>
    
   <samp>
-    Hello, I'm Eóin! 👋<br>
     R&D Engineer at Nordic Semiconductor<br>
     :house_with_garden: Currently based in Trondheim, Norway 🇳🇴<br>
     :school: Recent CS Graduate from the University of Glasgow<br>
